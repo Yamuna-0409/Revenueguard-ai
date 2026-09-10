@@ -36,8 +36,8 @@ RevenueGuard AI provides a centralized platform to analyze failed payments, prio
 - 🎙️ AI Voice Assistant
 - 
 ## 💡 How RevenueGuard AI Works
+---
 
-```text
 Payment Event
       ↓
 Payment Failure Detection
@@ -54,14 +54,14 @@ Audit & Analytics
 
 
 ## 📸 Application Screenshots
-
+---
 ### 📊 Dashboard
 
 Centralized view of payment health, revenue at risk, failed transactions, recovery metrics, and overall risk distribution.
 
 <img width="1797" height="867" alt="Dashboard" src="https://github.com/user-attachments/assets/34255bdb-4f57-4ae2-a586-953ac523a153" />
 
----
+----
 
 ### 💳 Payment Analysis
 
